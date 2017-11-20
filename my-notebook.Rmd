@@ -3,7 +3,7 @@ title: "This notebook"
 output: html_notebook
 ---
 
-# John Has a Section!
+# Jeff Has a Section! Section off!!!!
 
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
